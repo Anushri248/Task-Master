@@ -1,0 +1,14 @@
+# Root
+node_modules/
+.DS_Store
+*.log
+
+# Backend
+backend/node_modules/
+backend/.env
+backend/seed.js
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
